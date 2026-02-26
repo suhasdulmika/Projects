@@ -43,12 +43,6 @@ Basic network & security practice labs.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhasdulmika&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 🌍 GitHub: https://github.com/suhasdulmika
